@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .resume {
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  .resume h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .resume p {
+    font-size: 18px;
+  }
+  
+  .resume hr {
+    margin: 20px 0;
+  }
+  
+  .resume ul {
+    list-style-type: none;
+  }
+  
+  .resume ul li {
+    margin-bottom: 10px;
+  }
+  
+  .resume ul li strong {
+    font-weight: bold;
+  }
